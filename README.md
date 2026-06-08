@@ -9,8 +9,7 @@
 <!-- CONNECT BADGES -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-7c3aed?style=flat-square&logo=globe&logoColor=white)](https://shwetarawat061.github.io/Shwetarawat061/)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-333?style=flat-square&logo=github&logoColor=white)](https://github.com/Shwetarawat061)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/
-shweta-rawat-01a71733a)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/shweta-rawat-01a71733a)&nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=Shwetarawat061&style=flat-square&color=7c3aed&label=profile+views)
 
 </div>
