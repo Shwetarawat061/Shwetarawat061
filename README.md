@@ -2,14 +2,15 @@
 
 <!-- HERO HEADER -->
 <h1>👋 Welcome to My GitHub Profile</h1>
-<p><strong>Full-Stack Developer | TypeScript Enthusiast | Web Application Builder</strong></p>
+<p><strong>Aspiring AI/ML Engineer | Python Enthusiast | Web Application Builder</strong></p>
 
 <br/>
 
 <!-- CONNECT BADGES -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-7c3aed?style=flat-square&logo=globe&logoColor=white)](https://shwetarawat061.github.io/Shwetarawat061/)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-333?style=flat-square&logo=github&logoColor=white)](https://github.com/Shwetarawat061)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shweta-rawat)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/
+shweta-rawat-01a71733a)&nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=Shwetarawat061&style=flat-square&color=7c3aed&label=profile+views)
 
 </div>
@@ -23,8 +24,8 @@
 
 ```ts
 const shweta = {
-  role:       "Full-Stack Developer",
-  focus:      ["Web Applications", "TypeScript", "Modern Web Technologies"],
+  role:       "Aspiring AI/ML Engineer",
+  focus:      ["Artificial Intelligence", "Machine Learning", "Modern Web Technologies"],
   philosophy: "Clean code, continuous learning, and shipping great products",
   status:     "Building amazing web experiences",
   openTo:     ["Collaborations", "Open Source", "Exciting Projects"],
@@ -43,7 +44,7 @@ const shweta = {
 
 ## 🌐 About Me
 
-I'm a passionate **Full-Stack Developer** with expertise in building scalable, responsive web applications using modern technologies. I'm driven by a commitment to **clean, maintainable code** and continuously learning emerging technologies.
+I'm a passionate **Artificial Intelligence and Machine Learning student** passionate about solving real-world problems through innovative tech solutions. Eager to contribute to impactful hackathons and collaborative projects that combine creativity, coding, and practical impact.
 
 ### What I Do:
 - 🚀 Build performant **web applications** with React & TypeScript
@@ -209,7 +210,8 @@ I'm always interested in:
 ### Find Me Here:
 - **Portfolio:** [Visit My Website](https://shwetarawat061.github.io/Shwetarawat061/)
 - **GitHub:** [Follow @Shwetarawat061](https://github.com/Shwetarawat061)
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/shweta-rawat)
+- **LinkedIn:** [Connect with me](www.linkedin.com/in/
+shweta-rawat-01a71733a)
 
 </div>
 
@@ -224,6 +226,6 @@ I'm always interested in:
 
 <br/>
 
-**Happy Coding! 🚀**
+**Happy Coding!!🚀**
 
 </div>
