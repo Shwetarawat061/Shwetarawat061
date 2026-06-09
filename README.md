@@ -48,7 +48,7 @@
 
 ### 🧪 Epic Projects & Quests
 
-* 🧠 **[MannSuraksha - AI Mental Wellness Companion](https://github.com/shwetarawat061)** 🌿: An offline NLP sentiment analysis tool designed to detect emotional distress and support student mental well-being. Built responsive layouts during InnoThon 2025.
+* 🧠 **[MannSuraksha - AI Mental Wellness Companion](https://github.com/Shwetarawat061/MannSuraksha_App)** 🌿: An offline NLP sentiment analysis tool designed to detect emotional distress and support student mental well-being. Built responsive layouts during InnoThon 2025.
 * 🛡️ **[FactCheckAI](https://github.com/shwetarawat061/FactCheckAI)** 🔍: An AI-driven text analysis web app developed to target misinformation and verify news veracity accurately. 
 * 🩸 **[DSA Mini Project - Period Tracking System](https://github.com/shwetarawat061/DSA_Mini_Project-Period_Tracking_System)** 🗓️: A specialized healthcare tracking system engineered utilizing optimized C++ data structures for precision logging.
 * 🎨 **[Gen AI Front End](https://github.com/shwetarawat061/Gen_AI_Front_End)** ⚡: A sleek, highly responsive web application interface crafted for generative AI tool interactions.
