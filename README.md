@@ -38,7 +38,14 @@
 
 ---
 
-### 📊 Repository Languages & Grind
+### 📊 GitHub Stats & Grind
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shwetarawat061&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shwetarawat061&theme=dark" alt="GitHub Streak" height="180" />
+</div>
+
+<br />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetarawat061&layout=compact&theme=dark" alt="Top Languages" width="400" />
@@ -58,3 +65,30 @@
 *Explore all my coding journeys directly in my [repositories](https://github.com/shwetarawat061?tab=repositories)!*
 
 ---
+
+### 🏆 Hackathons & Accolades
+
+* 🚀 **Code Bharat Hackathon (National Level)** — Qualified Round 3; Pitched a high-impact AI model layout optimized for public service framework innovations.
+* 💡 **Samsung Solve for Tomorrow** — Designed an AI-based early student stress detection module aimed at scaling mental health support layers.
+* 💻 **InnoThon 2025** — Built the complete responsive interface engine for the *MannSuraksha* system application.
+* 🌟 **CODE Club AIML** — Active Tech Team Member helping organize tech syncs and collaborative machine learning builds.
+
+---
+
+### 🎯 My Mission & Endgame
+
+* 🚀 **Grinding Now:** Diving deep into advanced Neural Networks, full-stack frameworks, and keeping up an academic streak (9.86 SGPA vibe!).
+* 🔮 **Ultimate Quest:** Deploying scalable, empathetic AI tools capable of solving pressing community health and safety problems.
+* 🥷 **Side Quests:** Contributing to NSS camps, tackling algorithmic puzzles, and designing seamless client dashboards.
+
+---
+
+### 🤝 Let's Team Up!
+
+Always thrilled to collaborate on hackathons, full-stack web builds, or deep learning projects! Drop a line and let's build something epic! ✨
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shweta-rawat-01a71733a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/shwetarawat061" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:shwetarawat6106@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
