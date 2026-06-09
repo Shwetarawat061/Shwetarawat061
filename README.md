@@ -4,7 +4,6 @@
   <p><em>Vibing to clean code 🎧 | Building AI companions 🧠 | Slaying hackathons like a shinobi 🏆</em></p>
   <p><strong>An Aspiring AI/ML & Full-Stack Developer on a quest to solve real-world problems through innovative tech! 🌟</strong></p>
   <br />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="120" height="120"/>
 </div>
 
 ---
