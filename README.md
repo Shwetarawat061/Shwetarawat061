@@ -40,8 +40,8 @@
 ### 📊 GitHub Stats & Grind
 
 <p align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shwetarawat061&theme=dark&cache_seconds=1800" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shwetarawat061&show_icons=true&theme=dark&count_private=true&cache_seconds=0" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shwetarawat061&theme=dark&cache_seconds=0" alt="GitHub Streak" height="180" />
 </p>
 
 ---
