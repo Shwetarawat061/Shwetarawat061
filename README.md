@@ -40,16 +40,14 @@
 
 ### 📊 GitHub Stats & Grind
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shwetarawat061&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shwetarawat061&theme=dark" alt="GitHub Streak" height="180" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shwetarawat061&show_icons=true&theme=dark&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shwetarawat061&theme=dark&cache_seconds=1800" alt="GitHub Streak" height="180" />
+</p>
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetarawat061&layout=compact&theme=dark" alt="Top Languages" width="400" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetarawat061&layout=compact&theme=dark&cache_seconds=1800" alt="Top Languages" width="400" />
+</p>
 
 ---
 
