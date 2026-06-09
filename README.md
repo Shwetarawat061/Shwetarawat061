@@ -11,7 +11,7 @@
 
 ### 🎧 My Vibe Statement
 
-[cite_start]🌌 🧠 + 💻 = **Ultimate Flow State** From engineering NLP models to handle real-world challenges to crafting elegant, responsive front-ends, I'm always looking to build software with true practical impact[cite: 13, 14]. Add a solid playlist, and I am ready to grind, code, and level up! 🚀
+🌌 🧠 + 💻 = **Ultimate Flow State** From engineering NLP models to handle real-world challenges to crafting elegant, responsive front-ends, I'm always looking to build software with true practical impact. Add a solid playlist, and I am ready to grind, code, and level up! 🚀
 
 ---
 
@@ -41,26 +41,26 @@
 ### 📊 GitHub Stats & Grind
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shwetarawat061&show_icons=true&theme=jellybeans&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shwetarawat061&theme=jellybeans" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shwetarawat061&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shwetarawat061&theme=dark" alt="GitHub Streak" height="180" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetarawat061&layout=compact&theme=jellybeans" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetarawat061&layout=compact&theme=dark" alt="Top Languages" width="400" />
 </div>
 
 ---
 
 ### 🧪 Epic Projects & Quests
 
-* [cite_start]🧠 **[MannSuraksha - AI Mental Wellness Companion](https://github.com/shwetarawat061)** 🌿: An offline NLP sentiment analysis tool designed to detect emotional distress and support student mental well-being[cite: 45, 46, 47]. [cite_start]Built responsive layouts during InnoThon 2025[cite: 57, 58].
-* [cite_start]🛡️ **[FactCheckAI](https://github.com/shwetarawat061/FactCheckAI)** 🔍: An AI-driven text analysis web app developed to target misinformation and verify news veracity accurately[cite: 50, 51]. 
+* 🧠 **[MannSuraksha - AI Mental Wellness Companion](https://github.com/shwetarawat061)** 🌿: An offline NLP sentiment analysis tool designed to detect emotional distress and support student mental well-being. Built responsive layouts during InnoThon 2025.
+* 🛡️ **[FactCheckAI](https://github.com/shwetarawat061/FactCheckAI)** 🔍: An AI-driven text analysis web app developed to target misinformation and verify news veracity accurately. 
 * 🩸 **[DSA Mini Project - Period Tracking System](https://github.com/shwetarawat061/DSA_Mini_Project-Period_Tracking_System)** 🗓️: A specialized healthcare tracking system engineered utilizing optimized C++ data structures for precision logging.
 * 🎨 **[Gen AI Front End](https://github.com/shwetarawat061/Gen_AI_Front_End)** ⚡: A sleek, highly responsive web application interface crafted for generative AI tool interactions.
-* [cite_start]💰 **[WalletAngel](https://github.com/shwetarawat061)** 💸: A personal finance helper platform optimized for streamlined daily expense logging and interactive tracking[cite: 51, 52]. *(Private Repository)*
-* [cite_start]🤖 **[Basic Chatbot](https://github.com/shwetarawat061)** 💬: A rule-based conversational text agent constructed using NLP dictionary mappings during my CodeAlpha internship[cite: 48, 49].
+* 💰 **[WalletAngel](https://github.com/shwetarawat061)** 💸: A personal finance helper platform optimized for streamlined daily expense logging and interactive tracking. *(Private Repository)*
+* 🤖 **[Basic Chatbot](https://github.com/shwetarawat061)** 💬: A rule-based conversational text agent constructed using NLP dictionary mappings during my CodeAlpha internship.
 
 *Explore all my coding journeys directly in my [repositories](https://github.com/shwetarawat061?tab=repositories)!*
 
@@ -68,18 +68,18 @@
 
 ### 🏆 Hackathons & Accolades
 
-* 🚀 **Code Bharat Hackathon (National Level)** — Qualified Round 3; [cite_start]Pitched a high-impact AI model layout optimized for public service framework innovations[cite: 54, 56].
-* [cite_start]💡 **Samsung Solve for Tomorrow** — Designed an AI-based early student stress detection module aimed at scaling mental health support layers[cite: 55, 56].
-* [cite_start]💻 **InnoThon 2025** — Built the complete responsive interface engine for the *MannSuraksha* system application[cite: 57, 58].
-* [cite_start]🌟 **CODE Club AIML** — Active Tech Team Member helping organize tech syncs and collaborative machine learning builds[cite: 60].
+* 🚀 **Code Bharat Hackathon (National Level)** — Qualified Round 3; Pitched a high-impact AI model layout optimized for public service framework innovations.
+* 💡 **Samsung Solve for Tomorrow** — Designed an AI-based early student stress detection module aimed at scaling mental health support layers.
+* 💻 **InnoThon 2025** — Built the complete responsive interface engine for the *MannSuraksha* system application.
+* 🌟 **CODE Club AIML** — Active Tech Team Member helping organize tech syncs and collaborative machine learning builds.
 
 ---
 
 ### 🎯 My Mission & Endgame
 
-* [cite_start]🚀 **Grinding Now:** Diving deep into advanced Neural Networks, full-stack frameworks, and keeping up an academic streak (9.86 SGPA vibe!)[cite: 20].
-* [cite_start]🔮 **Ultimate Quest:** Deploying scalable, empathetic AI tools capable of solving pressing community health and safety problems[cite: 13].
-* [cite_start]🥷 **Side Quests:** Contributing to NSS camps, tackling algorithmic puzzles, and designing seamless client dashboards[cite: 59, 60, 61].
+* 🚀 **Grinding Now:** Diving deep into advanced Neural Networks, full-stack frameworks, and keeping up an academic streak (9.86 SGPA vibe!).
+* 🔮 **Ultimate Quest:** Deploying scalable, empathetic AI tools capable of solving pressing community health and safety problems.
+* 🥷 **Side Quests:** Contributing to NSS camps, tackling algorithmic puzzles, and designing seamless client dashboards.
 
 ---
 
@@ -88,7 +88,7 @@
 Always thrilled to collaborate on hackathons, full-stack web builds, or deep learning projects! Drop a line and let's build something epic! ✨
 
 <p align="left">
-  [cite_start]<a href="https://www.linkedin.com/in/shweta-rawat-01a71733a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> [cite: 10, 11]
-  [cite_start]<a href="https://github.com/shwetarawat061" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a> [cite: 25, 26]
-  [cite_start]<a href="mailto:shwetarawat6106@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a> [cite: 5, 6]
+  <a href="https://www.linkedin.com/in/shweta-rawat-01a71733a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/shwetarawat061" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:shwetarawat6106@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
