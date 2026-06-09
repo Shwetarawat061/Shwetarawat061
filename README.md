@@ -1,4 +1,4 @@
-# 👋 Shweta Rawat! 💻✨
+#                   👋 Shweta Rawat! 💻✨
 <div align="center">
   <h3>👋 I'm Shweta Rawat! 🧠🚀</h3>
   <p><em>Vibing to clean code 🎧 | Building AI companions 🧠 | Slaying hackathons like a shinobi 🏆</em></p>
@@ -15,9 +15,18 @@
 
 ---
 
-### 🚀 Tech Stack & Arsenal
+### 🚀 Tech Stack & Tools Arsenal
 
 **My toolkit for coding, machine learning, and building projects:**
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `Python` `Java` `C++` `C` `JavaScript` `TypeScript` |
+| **Web Development** | `React.js` `Node.js` `HTML5` `CSS3` |
+| **Databases** | `SQL` `MySQL (RDBMS)` `MongoDB` |
+| **Concepts & Tools** | `OOP` `Git` `GitHub` |
+
+<br />
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
@@ -55,40 +64,48 @@
 
 ### 🧪 Epic Projects & Quests
 
-* 🧠 **[MannSuraksha - AI Mental Wellness Companion](https://github.com/shwetarawat061)** 🌿: An offline NLP sentiment analysis tool designed to detect emotional distress and support student mental well-being. Built responsive layouts during InnoThon 2025.
-* 🛡️ **[FactCheckAI](https://github.com/shwetarawat061/FactCheckAI)** 🔍: An AI-driven text analysis web app developed to target misinformation and verify news veracity accurately. 
+* 🧠 **[MannSuraksha - AI Mental Wellness Companion](https://github.com/shwetarawat061)** 🌿: An offline NLP sentiment analysis tool designed to detect emotional distress and support student mental well-being. [cite_start]Built responsive layouts during InnoThon 2025[cite: 45, 46, 47, 57].
+* [cite_start]🛡️ **[FactCheckAI](https://github.com/shwetarawat061/FactCheckAI)** 🔍: An AI-driven text analysis web app developed to target misinformation and verify news veracity accurately[cite: 50]. 
 * 🩸 **[DSA Mini Project - Period Tracking System](https://github.com/shwetarawat061/DSA_Mini_Project-Period_Tracking_System)** 🗓️: A specialized healthcare tracking system engineered utilizing optimized C++ data structures for precision logging.
 * 🎨 **[Gen AI Front End](https://github.com/shwetarawat061/Gen_AI_Front_End)** ⚡: A sleek, highly responsive web application interface crafted for generative AI tool interactions.
-* 💰 **[WalletAngel](https://github.com/shwetarawat061)** 💸: A personal finance helper platform optimized for streamlined daily expense logging and interactive tracking. *(Private Repository)*
-* 🤖 **[Basic Chatbot](https://github.com/shwetarawat061)** 💬: A rule-based conversational text agent constructed using NLP dictionary mappings during my CodeAlpha internship.
+* 💰 **[WalletAngel](https://github.com/shwetarawat061)** 💸: A personal finance helper platform optimized for streamlined daily expense logging and interactive tracking. [cite_start]*(Private Repository)* [cite: 51, 52]
+* [cite_start]🤖 **[Basic Chatbot](https://github.com/shwetarawat061)** 💬: A rule-based conversational text agent constructed using NLP dictionary mappings during my CodeAlpha internship[cite: 48, 49].
 
-*Explore all my coding journeys directly in my [repositories](https://github.com/shwetarawat061?tab=repositories)!*
+[cite_start]*Explore all my coding journeys directly in my [repositories](https://github.com/shwetarawat061?tab=repositories)!* 
 
 ---
 
 ### 🏆 Hackathons & Accolades
 
-* 🚀 **Code Bharat Hackathon (National Level)** — Qualified Round 3; Pitched a high-impact AI model layout optimized for public service framework innovations.
-* 💡 **Samsung Solve for Tomorrow** — Designed an AI-based early student stress detection module aimed at scaling mental health support layers.
-* 💻 **InnoThon 2025** — Built the complete responsive interface engine for the *MannSuraksha* system application.
-* 🌟 **CODE Club AIML** — Active Tech Team Member helping organize tech syncs and collaborative machine learning builds.
+* 🚀 **Code Bharat Hackathon (National Level)** — Qualified Round 3; [cite_start]Pitched a high-impact AI model layout optimized for public service framework innovations[cite: 54, 56].
+* [cite_start]💡 **Samsung Solve for Tomorrow** — Designed an AI-based early student stress detection module aimed at scaling mental health support layers[cite: 55].
+* [cite_start]💻 **InnoThon 2025** — Built the complete responsive interface engine for the *MannSuraksha* system application[cite: 57, 58].
+* [cite_start]🌟 **CODE Club AIML** — Active Tech Team Member helping organize tech syncs and collaborative machine learning builds[cite: 60].
 
 ---
 
 ### 🎯 My Mission & Endgame
 
-* 🚀 **Grinding Now:** Diving deep into advanced Neural Networks, full-stack frameworks, and keeping up an academic streak (9.86 SGPA vibe!).
+* [cite_start]🚀 **Grinding Now:** Diving deep into advanced Neural Networks, full-stack frameworks, and keeping up an academic streak (9.86 SGPA vibe!)[cite: 20].
 * 🔮 **Ultimate Quest:** Deploying scalable, empathetic AI tools capable of solving pressing community health and safety problems.
-* 🥷 **Side Quests:** Contributing to NSS camps, tackling algorithmic puzzles, and designing seamless client dashboards.
+* [cite_start]🥷 **Side Quests:** Contributing to NSS camps, tackling algorithmic puzzles, and designing seamless client dashboards[cite: 60, 61].
 
 ---
 
 ### 🤝 Let's Team Up!
 
-Always thrilled to collaborate on hackathons, full-stack web builds, or deep learning projects! Drop a line and let's build something epic! ✨
+Always thrilled to collaborate on hackathons, full-stack web builds, or deep learning projects! Drop a line or check out my work and let's build something epic! ✨
+
+| Profile Links | Connect Directly |
+| :--- | :--- |
+| 🌐 **[Personal Portfolio Website](https://YOUR_PORTFOLIO_LINK_HERE)** | ✉️ **[Email Me (Instant Draft)](mailto:shwetarawat6106@gmail.com?subject=Let's%20Collaborate!)** |
+| 💼 **[LinkedIn Handle](https://www.linkedin.com/in/shweta-rawat-01a71733a)** | 🐙 **[GitHub Hub](https://github.com/shwetarawat061)** |
+
+<br />
 
 <p align="left">
+  <a href="https://YOUR_PORTFOLIO_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/Portfolio-🌐-purple?style=flat" alt="Portfolio" /></a>
+  <a href="mailto:shwetarawat6106@gmail.com?subject=Let's%20Collaborate!"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/shweta-rawat-01a71733a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/shwetarawat061" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:shwetarawat6106@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
