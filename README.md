@@ -49,12 +49,12 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://leetcard.jacoblin.cool/prajyot-porje?theme=dark&font=Geist+Mono&ext=heatmap&border=0&radius=8"/>
+    srcset="https://leetcard.jacoblin.cool/Shwetarawat061?theme=dark&font=Geist+Mono&ext=heatmap&border=0&radius=8"/>
   <source media="(prefers-color-scheme: light)"
-    srcset="https://leetcard.jacoblin.cool/prajyot-porje?theme=light&font=Geist+Mono&ext=heatmap&border=0&radius=8"/>
+    srcset="https://leetcard.jacoblin.cool/Shwetarawat061?theme=light&font=Geist+Mono&ext=heatmap&border=0&radius=8"/>
   <img
-    src="https://leetcard.jacoblin.cool/prajyot-porje?theme=dark&font=Geist+Mono&ext=heatmap&border=0&radius=8"
-    alt="LeetCode stats for prajyot-porje"/>
+    src="https://leetcard.jacoblin.cool/Shwetarawat061?theme=dark&font=Geist+Mono&ext=heatmap&border=0&radius=8"
+    alt="LeetCode stats for Shweta Rawat"/>
 </picture>
 
 </div>
