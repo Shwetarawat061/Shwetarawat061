@@ -44,6 +44,22 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shwetarawat061&theme=dark&cache_seconds=0" alt="GitHub Streak" height="180" />
 </p>
 
+<!-- LEETCODE -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://leetcard.jacoblin.cool/prajyot-porje?theme=dark&font=Geist+Mono&ext=heatmap&border=0&radius=8"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://leetcard.jacoblin.cool/prajyot-porje?theme=light&font=Geist+Mono&ext=heatmap&border=0&radius=8"/>
+  <img
+    src="https://leetcard.jacoblin.cool/prajyot-porje?theme=dark&font=Geist+Mono&ext=heatmap&border=0&radius=8"
+    alt="LeetCode stats for prajyot-porje"/>
+</picture>
+
+</div>
+
+<br/>
 ---
 
 ### 🧪 Epic Projects & Quests
