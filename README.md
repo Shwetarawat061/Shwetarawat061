@@ -38,11 +38,40 @@
 ---
 
 ### 📊 GitHub Stats & Grind
+<!-- GITHUB STATS -->
+<div align="center">
 
-<p align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shwetarawat061&theme=dark&cache_seconds=0" alt="GitHub Streak" height="180" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Shwetarawat061&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=606060&count_private=true&include_all_commits=true" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Shwetarawat061&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160"
+    src="https://github-readme-stats.vercel.app/api?username=Shwetarawat061&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=606060&count_private=true&include_all_commits=true"
+    alt="GitHub stats"/>
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=Shwetarawat061&theme=dark&hide_border=true&background=0d0d0d&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideNums=f0f0f0&currStreakNum=f0f0f0&sideLabels=606060&dates=3a3a3a" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=Shwetarawat061&theme=default&hide_border=true" />
+  <img height="160"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=prajyot-porje&theme=dark&hide_border=true&background=0d0d0d&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideNums=f0f0f0&currStreakNum=f0f0f0&sideLabels=606060&dates=3a3a3a"
+    alt="GitHub streak"/>
+</picture>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Shwetarawat061&theme=react-dark&bg_color=0d0d0d&color=a78bfa&line=7c3aed&point=f0f0f0&area=true&area_color=7c3aed&hide_border=true&height=200"
+  width="98%"
+  alt="GitHub activity graph"/>
+
+</div>
+
+<br/>
+
 
 <!-- LEETCODE -->
 <div align="center">
