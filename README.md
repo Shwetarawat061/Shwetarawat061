@@ -1,5 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+I'm+Shweta!+👋;Full+Stack+Developer;Innovator;Always+Learning+🚀)
 <div align="center">
-  <h1>👋 Shweta Rawat! 💻✨</h1>
   <h3>👋 I'm Shweta Rawat! 🧠🚀</h3>
   <p><em>Vibing to clean code 🎧 | Building AI companions 🧠 | Slaying hackathons like a shinobi 🏆</em></p>
   <p><strong>An Aspiring AI/ML & Full-Stack Developer on a quest to solve real-world problems through innovative tech! 🌟</strong></p>
