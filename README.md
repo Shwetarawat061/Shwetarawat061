@@ -103,7 +103,7 @@
     src="https://leetcard.jacoblin.cool/ShwetaRawat6106?theme=dark&font=Geist+Mono&ext=heatmap&border=0&radius=8"
     alt="LeetCode stats for Shwetarawat061"/>
 </picture>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetarawat061&layout=compact&theme=radical" height="180"/>
+
 </div>
 
 <br/>
