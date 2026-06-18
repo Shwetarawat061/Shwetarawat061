@@ -70,6 +70,9 @@
     alt="GitHub stats"/>
 </picture>
 &nbsp;
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetarawat061&layout=compact&theme=radical" height="180"/>
+</p>
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=Shwetarawat061&theme=dark&hide_border=true&background=0d0d0d&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideNums=f0f0f0&currStreakNum=f0f0f0&sideLabels=606060&dates=3a3a3a" />
