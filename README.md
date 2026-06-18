@@ -79,7 +79,6 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=Shwetarawat061&theme=dark&hide_border=true&background=0d0d0d&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideNums=f0f0f0&currStreakNum=f0f0f0&sideLabels=606060&dates=3a3a3a"
     alt="GitHub streak"/>
 </picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetarawat061&layout=compact&theme=radical" height="180"/>
 <br/><br/>
 
 <img
@@ -104,7 +103,7 @@
     src="https://leetcard.jacoblin.cool/ShwetaRawat6106?theme=dark&font=Geist+Mono&ext=heatmap&border=0&radius=8"
     alt="LeetCode stats for Shwetarawat061"/>
 </picture>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetarawat061&layout=compact&theme=radical" height="180"/>
 </div>
 
 <br/>
