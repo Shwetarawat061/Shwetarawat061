@@ -24,9 +24,7 @@
 
   
 </div>
-
 <br/>
-
 ### 🎧 My Vibe Statement
 
 🌌 🧠 + 💻 = **Ultimate Flow State** From engineering NLP models to handle real-world challenges to crafting elegant, responsive front-ends, I'm always looking to build software with true practical impact. Add a solid playlist, and I am ready to grind, code, and level up! 🚀
