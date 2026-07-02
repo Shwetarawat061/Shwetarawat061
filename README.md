@@ -80,7 +80,7 @@
 <br/><br/>
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Shwetarawat061&theme=react-dark&bg_color=0d0d0d&color=a78bfa&line=7c3aed&point=f0f0f0&area=true&area_color=7c3aed&hide_border=true&height=200"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Shwetarawat061&theme=react-dark&bg_color=0d0d0d&color=a78bfa&line=7c3aed&point=f0f0f0&area=true&area_color=7c3aed&hide_border=true&height=250"
   width="98%"
   alt="GitHub activity graph"/>
 
