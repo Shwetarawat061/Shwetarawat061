@@ -94,12 +94,12 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://leetcard.jacoblin.cool/ShwetaRawat6106?theme=dark&font=Geist+Mono&ext=heatmap&border=0&radius=8"/>
+    srcset="https://leetcard.jacoblin.cool/ShwetaRawat6106?theme=dark&font=Geist+Mono&border=0&radius=8"/>
   <source media="(prefers-color-scheme: light)"
-    srcset="https://leetcard.jacoblin.cool/ShwetaRawat6106?theme=light&font=Geist+Mono&ext=heatmap&border=0&radius=8"/>
+    srcset="https://leetcard.jacoblin.cool/ShwetaRawat6106?theme=light&font=Geist+Mono&border=0&radius=8"/>
   <img
-    src="https://leetcard.jacoblin.cool/ShwetaRawat6106?theme=dark&font=Geist+Mono&ext=heatmap&border=0&radius=8"
-    alt="LeetCode stats for Shwetarawat061"/>
+    src="https://leetcard.jacoblin.cool/ShwetaRawat6106?theme=dark&font=Geist+Mono&border=0&radius=8"
+    alt="LeetCode stats for ShwetaRawat6106"/>
 </picture>
 
 </div>
