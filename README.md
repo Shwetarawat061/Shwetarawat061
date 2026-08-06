@@ -178,11 +178,51 @@ I'm an AI/ML and full-stack developer who enjoys taking a problem from idea to w
 </details>
 
 <details>
-<summary><b>🤖 Basic Chatbot — CodeAlpha Internship</b></summary>
+<summary><b>🚂 Railway Management System</b></summary>
 <br/>
 
-**Approach:** A rule-based conversational agent using NLP dictionary mappings.
-**Built during:** CodeAlpha internship
+**Approach:** A full-stack railway management system with secure JWT authentication, role-based access, real-time seat booking, PNR generation, and REST APIs.
+**Tech:** Python, Flask, MySQL, Streamlit
+🔗 [Repository](https://github.com/Shwetarawat061/railway-management-system)
+
+</details>
+
+<details>
+<summary><b>🤖 CodeAlpha Basic Chatbot</b></summary>
+<br/>
+
+**Approach:** A rule-based chatbot using dictionaries, conditional logic, and basic NLP preprocessing (tokenization, stopword removal, light stemming) to hold a conversation — no ML model required.
+**Tech:** Python · MIT License
+🔗 [Repository](https://github.com/Shwetarawat061/CodeAlpha_Basic-Chatbot)
+
+</details>
+
+<details>
+<summary><b>🏥 MediMate ML</b></summary>
+<br/>
+
+**Approach:** *(add a short description of what this project does)*
+**Tech:** *(add your stack here)*
+🔗 [Repository](https://github.com/Shwetarawat061/ml-01-medi_mate_ml)
+
+</details>
+
+<details>
+<summary><b>🧮 DSA · LeetCode Questions</b> <em>(private)</em></summary>
+<br/>
+
+**Approach:** An ongoing personal collection of solved LeetCode problems to sharpen coding-interview skills.
+**Tech:** C++
+
+</details>
+
+<details>
+<summary><b>🔀 MeetSync AI</b> <em>(fork)</em></summary>
+<br/>
+
+Forked from <a href="https://github.com/Durva-3124/meetsync-ai">Durva-3124/meetsync-ai</a> — contributing/exploring on top of the original project.
+**Tech:** TypeScript
+🔗 [Repository](https://github.com/Shwetarawat061/meetsync-ai)
 
 </details>
 
