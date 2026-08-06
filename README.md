@@ -33,7 +33,7 @@
 
 ### 💡 About Me
 
-I'm an AI/ML and full-stack developer who enjoys taking a problem from idea to working prototype — from training NLP models that understand real human context to building the interfaces people actually use to interact with them. Currently maintaining a **9.86 SGPA** while shipping side projects and competing in hackathons.
+I'm an AI/ML and full-stack developer who enjoys taking a problem from idea to working prototype — from training NLP models that understand real human context to building the interfaces people actually use to interact with them. Currently maintaining a **9.61 CGPA** while shipping side projects and competing in hackathons.
 
 **🟢 Currently:** Deepening my grasp of neural networks and full-stack architecture, and looking for internship/collaboration opportunities in AI/ML or full-stack development.
 
