@@ -244,7 +244,7 @@ Forked from <a href="https://github.com/Durva-3124/meetsync-ai">Durva-3124/meets
 ### 🎯 What's Next
 
 - 🔮 Deploying scalable, empathetic AI tools for community health and safety problems
-- 🥷 Contributing to NSS camps, algorithmic problem-solving, and client dashboard design
+- 🥷 Contributing to Algorithmic problem-solving, and client dashboard design
 - 📚 Open to internships and collaborations in AI/ML and full-stack development
 
 ---
