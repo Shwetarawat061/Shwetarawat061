@@ -6,7 +6,7 @@
   <p>🎧 Clean code · 🧠 AI companions · 🏆 Hackathons</p>
   <br />
 </div>
----
+
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 📊 PROFILE BADGES                                                           -->
@@ -36,7 +36,7 @@ I'm an AI/ML and full-stack developer who enjoys taking a problem from idea to w
 
 **🟢 Currently:** Deepening my grasp of neural networks and full-stack architecture, and looking for internship/collaboration opportunities in AI/ML or full-stack development.
 
----
+
 
 ### 🚀 Tech Stack
 
