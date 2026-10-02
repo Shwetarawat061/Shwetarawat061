@@ -1,261 +1,283 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+I'm+Shweta!+👋;Full+Stack+Developer;AI%2FML+Enthusiast;Always+Learning+🚀)
-
 <div align="center">
-  <h3>👋 I'm Shweta Rawat</h3>
-  <p><em>Aspiring AI/ML & Full-Stack Developer building tools with real-world impact</em></p>
-  <p>🎧 Clean code · 🧠 AI companions · 🏆 Hackathons</p>
-  <br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shweta%20Rawat&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=AI%2FML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Agentic%20AI%20Builder&descSize=18&descAlignY=58" alt="Shweta Rawat" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=%24+whoami+%E2%86%92+AI%2FML+Engineer+%7C+Full-Stack+Developer;%24+cat+mission.txt+%E2%86%92+Build+AI+systems+that+actually+ship;%24+stack+--list+%E2%86%92+LLMs+%C2%B7+RAG+%C2%B7+Agents+%C2%B7+FastAPI+%C2%B7+Docker;%24+status+%E2%86%92+Morgan+Stanley+%C2%B7+Goldman+Sachs+Catalyst+%C2%B7+MyAIguru" alt="Typing SVG" />
+
+<br><br>
+
+<a href="https://linkedin.com/in/shweta-rawat-01a71733a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+<a href="mailto:shwetarawat6106@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://leetcode.com/u/ShwetaRawat6106/"><img src="https://img.shields.io/badge/LeetCode-ShwetaRawat6106-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<img src="https://komarev.com/ghpvc/?username=Shwetarawat061&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" alt="Profile Views" />
+
 </div>
 
+---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 PROFILE BADGES                                                           -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## 🖥️ `boot_sequence.log`
+
+```bash
+$ ./init_profile.sh --user shweta
+
+[  OK  ] Loaded identity ............ AI/ML Engineer + Full-Stack Developer
+[  OK  ] Mounted education .......... B.Tech AI & ML @ PES Modern College of Engineering · CGPA 9.6+
+[  OK  ] Detected location .......... Pune, India
+[  OK  ] Started service ............ Morgan Stanley (Trainee)            since Jun 2026
+[  OK  ] Started service ............ Goldman Sachs Catalyst (Trainee)    ongoing
+[  OK  ] Started service ............ S3K Technologies / MyAIguru (AI Analyst Intern)  since 1 Oct 2026
+[  OK  ] Loaded modules ............. GenAI · Agentic AI · RAG · FastAPI · Microservices · System Design
+[  OK  ] Mindset .................... Build → Break → Debug → Learn → Ship
+
+>> System ready. Accepting collaboration requests.
+```
+
+---
+
+## 👋 `whoami`
+
+```python
+class ShwetaRawat(Engineer):
+
+    role      = "AI/ML Engineer + Full-Stack Developer"
+    education = "B.Tech, AI & ML @ PES Modern College of Engineering"
+    cgpa      = "9.6+"
+    location  = "Pune, India"
+    mindset   = "Build → Break → Debug → Learn → Ship"
+
+    def specialties(self):
+        return [
+            "Generative AI & Agentic AI",
+            "LLM applications: RAG, embeddings, agents",
+            "Backend engineering & microservices",
+            "System design",
+            "DSA in C++",
+        ]
+
+    def run(self):
+        while self.alive:
+            self.learn(); self.build(); self.solve(); self.ship()
+```
+
+---
+
+## 🔭 `live_status`
+
+| Track | Status | Details |
+|:--|:--:|:--|
+| 🏦 **Morgan Stanley** | 🟢 Active | Trainee · since Jun 2026 |
+| 💼 **Goldman Sachs Catalyst** | 🟢 Active | Trainee in the 2026 program |
+| 🤖 **S3K Technologies / MyAIguru** | 🟢 Active | AI Analyst Intern · 6 months from 1 Oct 2026 |
+| 🧠 **AI Engineering** | 🔨 Building | Agentic workflows · RAG pipelines · AI automation |
+| ⚙️ **Backend** | 🔨 Building | FastAPI · auth · microservices · scalable architecture |
+| 🧩 **DSA** | 🔁 Daily | C++ on LeetCode |
+| ☁️ **Infra** | 📚 Learning | Docker · CI/CD · cloud deployment |
+
+---
+
+## 🧬 `system_architecture`
+
+How I think about building AI products, end to end:
+
+```mermaid
+flowchart LR
+    A[Client<br/>React + TypeScript] --> B[API Layer<br/>Express / FastAPI]
+    B --> C[Auth<br/>JWT + RBAC]
+    B --> D[(Data<br/>MongoDB / PostgreSQL)]
+    B --> E[AI Services<br/>LLMs · RAG · Agents]
+    E --> F[Speech · NLP · ML Models]
+    B --> G[Docker + CI/CD]
+```
+
+---
+
+## ⚡ `tech_stack`
+
+| Domain | Tools & Concepts |
+|:--|:--|
+| **AI / ML** | Supervised & unsupervised learning · feature engineering · model evaluation · predictive analytics |
+| **AI Engineering** | NLP · Generative AI · LLM applications · RAG · embeddings · AI agents |
+| **Backend** | REST APIs · JWT · RBAC · microservices · authentication · API integration |
+| **Engineering** | Git · GitHub · Docker · CI/CD · testing · API design · system design |
+
+<p>
+<b>Languages</b><br>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,typescript,javascript,html,css" alt="Languages" /><br><br>
+<b>Frameworks</b><br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask" alt="Frameworks" /><br><br>
+<b>Databases</b><br>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" alt="Databases" /><br><br>
+<b>Tooling</b><br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma" alt="Tooling" />
+</p>
+
+---
+
+## 🏗️ `projects`
+
+### 🥗 NutriSync AI
+> AI-powered nutrition intelligence platform: log meals, get personalized, reasoned insights.
+
+```mermaid
+flowchart LR
+    U[React + TS] --> API[Express API]
+    API --> DB[(MongoDB<br/>meal data)]
+    API --> AI[Gemini<br/>AI analysis]
+    DB --> I[Personalized<br/>insights]
+    AI --> I
+```
+
+- 🍎 AI food analysis with transparent reasoning
+- 📊 Macro and nutrition tracking against personalized goals
+- 📚 Meal history · 🔐 JWT authentication
+
+`React` `TypeScript` `Node.js` `Express` `MongoDB` `JWT` `Gemini`
+
+---
+
+### 🎙️ MeetSync AI
+> Meeting intelligence as a microservices system: audio in, minutes of meeting out.
+
+```mermaid
+flowchart LR
+    A[Meeting audio] --> W[Whisper<br/>speech-to-text]
+    W --> P[AI processing<br/>service]
+    P --> T[Transcript]
+    P --> D[Key decisions]
+    T --> M[MOM / Summary]
+    D --> M
+```
+
+- 🎤 Speech-to-text and automated meeting-minutes generation
+- 🧠 Decision extraction from transcripts
+- ⚙️ FastAPI microservice · 🐳 Dockerized · 🔄 CI/CD workflows
+
+`Python` `FastAPI` `TypeScript` `Node.js` `Docker` `Whisper` `REST`
+
+---
+
+### 🛡️ VeriVox
+> Real-time voice anti-spoofing and speaker verification: detecting synthetic and cloned voices in live-call scenarios.
+
+```mermaid
+flowchart LR
+    V[Voice input] --> F[Audio features]
+    F --> S[Speaker<br/>verification]
+    S --> X[Anti-spoofing<br/>analysis]
+    X --> R{{Risk score}}
+```
+
+`Speech AI` `Speaker Verification` `Anti-Spoofing` `Risk Analysis`
+
+---
+
+### 🔎 FactCheckAI
+> AI-assisted misinformation analysis: claim in, credibility assessment out.
+
+```mermaid
+flowchart LR
+    C[Claim] --> T[Text<br/>processing]
+    T --> S[Source / context<br/>analysis]
+    S --> L[LLM-assisted<br/>evaluation]
+    L --> R{{Credibility result}}
+```
+
+`React` `TypeScript` `Flask` `SQLite` `SQLAlchemy` `LLM APIs`
+
+---
+
+### 🏥 MediMate ML
+> End-to-end ML pipeline for preliminary disease classification.
+
+```mermaid
+flowchart LR
+    D[Dataset] --> P[Preprocessing]
+    P --> M[Missing-value<br/>handling]
+    M --> F[Feature<br/>engineering]
+    F --> T[Model<br/>training]
+    T --> Y[Prediction]
+    Y --> E[Evaluation]
+```
+
+`Python` `Scikit-Learn` `Pandas` `NumPy`
+
+---
+
+## 💼 `experience`
+
+```mermaid
+timeline
+    title Career & Programs
+    2024 : Samsung Solve for Tomorrow
+    2025 : InnoThon 2025 Finalist
+    2026 : Morgan Stanley Trainee (Jun)
+         : Goldman Sachs Catalyst Trainee
+         : S3K Technologies / MyAIguru AI Analyst Intern (1 Oct)
+```
+
+| Role | Org | Period | Focus |
+|:--|:--|:--|:--|
+| **AI Analyst Intern** | 🤖 S3K Technologies / MyAIguru | 6 months · from 1 Oct 2026 | `AI/ML` `Generative AI` `APIs` `Automation` `Software Engineering` |
+| **Trainee** | 🏦 Morgan Stanley | Jun 2026 – Present | `Professional Communication` `Systems Design` |
+| **Trainee** | 💼 Goldman Sachs Catalyst | 2026 · Ongoing | Structured industry training program |
+
+Hands-on exposure to AI development, technical problem solving, and real-world software engineering workflows, alongside structured engineering and systems-design training at two of the world's leading financial institutions.
+
+---
+
+## 🏆 `achievements`
+
+| Year | Achievement |
+|:--:|:--|
+| 2026 | 💼 **Goldman Sachs Catalyst 2026**: selected for the program (ongoing) |
+| 2026 | 🎓 **Katalyst India Scholar** |
+| 2026 | 🚀 **Code Bharat Hackathon**: advanced to Round 3 |
+| 2025 | 🏆 **InnoThon 2025**: Finalist |
+| 2024 | 💡 **Samsung Solve for Tomorrow** |
+
+---
+
+## 🧠 `competitive_programming`
 
 <div align="center">
-
-<a href="https://github.com/Shwetarawat061">
-  <img src="https://komarev.com/ghpvc/?username=Shwetarawat061k&label=Profile%20Views&color=764ba2&style=flat-square" alt="Profile Views"/>
+<a href="https://leetcode.com/u/ShwetaRawat6106/">
+<img src="https://leetcard.jacoblin.cool/ShwetaRawat6106?theme=dark&font=Karma&ext=heatmap" width="500" alt="LeetCode stats" />
 </a>
-&nbsp;
-<a href="https://github.com/Shwetarawat061?tab=repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FShwetarawat061&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=f093fb&labelColor=1a1b26" alt="Repositories"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/shweta-rawat-01a71733a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/shwetarawat061" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:shwetarawat6106@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-
 </div>
 
-<br/>
+<details>
+<summary><b>📂 DSA focus areas (click to expand)</b></summary>
 
-### 💡 About Me
+```text
+Data Structures  Arrays · Strings · Linked Lists · Stacks & Queues · Hashing · Trees · Graphs · Heaps · Recursion
+Algorithms       Binary Search · Two Pointers · Sliding Window · Sorting · Greedy · Backtracking · DP · Graph Algorithms
+```
 
-I'm an AI/ML and full-stack developer who enjoys taking a problem from idea to working prototype — from training NLP models that understand real human context to building the interfaces people actually use to interact with them. Currently maintaining a **9.61 CGPA** while shipping side projects and competing in hackathons.
-
-**🟢 Currently:** Deepening my grasp of neural networks and full-stack architecture, and looking for internship/collaboration opportunities in AI/ML or full-stack development.
-
-
-
-### 🚀 Tech Stack
-
-**Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-**Frontend**
-<p align="left">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-**Backend & Data**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-**Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-</p>
+</details>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 `github_telemetry`
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Shwetarawat061&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetarawat061&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top languages" />
+<br><br>
+<img src="https://streak-stats.demolab.com?user=Shwetarawat061&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<br><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shwetarawat061&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution graph" width="95%" />
+<br><br>
+<img src="https://github-profile-trophy.vercel.app/?username=Shwetarawat061&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="Trophies" />
+</div>
+
+---
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Shwetarawat061&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=606060&count_private=true&include_all_commits=true" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Shwetarawat061&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160"
-    src="https://github-readme-stats.vercel.app/api?username=Shwetarawat061&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=606060&count_private=true&include_all_commits=true"
-    alt="GitHub stats"/>
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=Shwetarawat061&theme=dark&hide_border=true&background=0d0d0d&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideNums=f0f0f0&currStreakNum=f0f0f0&sideLabels=606060&dates=3a3a3a" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=Shwetarawat061&theme=default&hide_border=true" />
-  <img height="160"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Shwetarawat061&theme=dark&hide_border=true&background=0d0d0d&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideNums=f0f0f0&currStreakNum=f0f0f0&sideLabels=606060&dates=3a3a3a"
-    alt="GitHub streak"/>
-</picture>
-<br/><br/>
+### `while (alive) { learn(); build(); solve(); ship(); }`
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Shwetarawat061&theme=react-dark&bg_color=0d0d0d&color=a78bfa&line=7c3aed&point=f0f0f0&area=true&area_color=7c3aed&hide_border=true&height=250"
-  width="98%"
-  alt="GitHub activity graph"/>
+**Thanks for visiting. Let's build something. 💜**
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://leetcard.jacoblin.cool/ShwetaRawat6106?theme=dark&font=Geist+Mono&border=0&radius=8"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://leetcard.jacoblin.cool/ShwetaRawat6106?theme=light&font=Geist+Mono&border=0&radius=8"/>
-  <img
-    src="https://leetcard.jacoblin.cool/ShwetaRawat6106?theme=dark&font=Geist+Mono&border=0&radius=8"
-    alt="LeetCode stats for ShwetaRawat6106"/>
-</picture>
-
-</div>
-
-<br/>
-
----
-
-### 🧪 Featured Projects
-
-<details open>
-<summary><b>🧠 MannSuraksha — AI Mental Wellness Companion</b></summary>
-<br/>
-
-**Problem:** Students often don't recognize or report emotional distress early enough for support systems to help.
-**Approach:** Built an offline NLP sentiment-analysis engine that flags signs of emotional distress from text input, paired with a responsive front-end for accessibility.
-**Built at:** InnoThon 2025
-**Tech:** *(add your stack here — e.g. Python, NLP libraries, React)*
-🔗 [Repository](https://github.com/Shwetarawat061/MannSuraksha_App)
-
-</details>
-
-<details>
-<summary><b>🛡️ FactCheckAI — Misinformation Detection Tool</b></summary>
-<br/>
-
-**Problem:** Misinformation spreads faster than manual fact-checking can keep up.
-**Approach:** An AI-driven text analysis web app that evaluates news content for veracity signals.
-**Tech:** *(add your stack here)*
-🔗 [Repository](https://github.com/shwetarawat061/FactCheckAI)
-
-</details>
-
-<details>
-<summary><b>🩸 Period Tracking System — DSA Mini Project</b></summary>
-<br/>
-
-**Approach:** A healthcare tracking system built with optimized C++ data structures for efficient, precise logging.
-**Tech:** C++
-🔗 [Repository](https://github.com/shwetarawat061/DSA_Mini_Project-Period_Tracking_System)
-
-</details>
-
-<details>
-<summary><b>🎨 Gen AI Front End</b></summary>
-<br/>
-
-**Approach:** A responsive web interface designed for interacting with generative AI tools.
-**Tech:** *(add your stack here)*
-🔗 [Repository](https://github.com/shwetarawat061/Gen_AI_Front_End)
-
-</details>
-
-<details>
-<summary><b>💰 WalletAngel — Personal Finance Tracker</b></summary>
-<br/>
-
-**Approach:** A personal finance platform for streamlined daily expense logging and interactive tracking.
-**Status:** Private repository — happy to walk through it on request.
-
-</details>
-
-<details>
-<summary><b>🚂 Railway Management System</b></summary>
-<br/>
-
-**Approach:** A full-stack railway management system with secure JWT authentication, role-based access, real-time seat booking, PNR generation, and REST APIs.
-**Tech:** Python, Flask, MySQL, Streamlit
-🔗 [Repository](https://github.com/Shwetarawat061/railway-management-system)
-
-</details>
-
-<details>
-<summary><b>🤖 CodeAlpha Basic Chatbot</b></summary>
-<br/>
-
-**Approach:** A rule-based chatbot using dictionaries, conditional logic, and basic NLP preprocessing (tokenization, stopword removal, light stemming) to hold a conversation — no ML model required.
-**Tech:** Python · MIT License
-🔗 [Repository](https://github.com/Shwetarawat061/CodeAlpha_Basic-Chatbot)
-
-</details>
-
-<details>
-<summary><b>🏥 MediMate ML</b></summary>
-<br/>
-
-**Approach:** *(add a short description of what this project does)*
-**Tech:** *(add your stack here)*
-🔗 [Repository](https://github.com/Shwetarawat061/ml-01-medi_mate_ml)
-
-</details>
-
-<details>
-<summary><b>🧮 DSA · LeetCode Questions</b> <em>(private)</em></summary>
-<br/>
-
-**Approach:** An ongoing personal collection of solved LeetCode problems to sharpen coding-interview skills.
-**Tech:** C++
-
-</details>
-
-<details>
-<summary><b>🔀 MeetSync AI</b> <em>(fork)</em></summary>
-<br/>
-
-Forked from <a href="https://github.com/Durva-3124/meetsync-ai">Durva-3124/meetsync-ai</a> — contributing/exploring on top of the original project.
-**Tech:** TypeScript
-🔗 [Repository](https://github.com/Shwetarawat061/meetsync-ai)
-
-</details>
-
-*Explore more in my [repositories](https://github.com/shwetarawat061?tab=repositories).*
-
----
-
-### 🏆 Hackathons & Accolades
-
-| Event | Highlight |
-|---|---|
-| 🚀 Code Bharat Hackathon (National) | Qualified Round 3 — pitched an AI model for public service applications |
-| 💡 Samsung Solve for Tomorrow | Designed an AI-based early student stress-detection module |
-| 💻 InnoThon 2025 | Built the full responsive interface for MannSuraksha |
-| 🌟 CODE Club AIML | Active tech team member, organizing ML build sessions |
-
----
-
-### 🎯 What's Next
-
-- 🔮 Deploying scalable, empathetic AI tools for community health and safety problems
-- 🥷 Contributing to Algorithmic problem-solving, and client dashboard design
-- 📚 Open to internships and collaborations in AI/ML and full-stack development
-
----
-
-### 🤝 Let's Connect
-
-Open to hackathons, full-stack builds, and deep learning projects — reach out and let's build something together.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/shweta-rawat-01a71733a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/shwetarawat061" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:shwetarawat6106@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="" />
 
 </div>
