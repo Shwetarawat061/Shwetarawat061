@@ -9,9 +9,8 @@
 <a href="https://linkedin.com/in/shweta-rawat-01a71733a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 <a href="mailto:shwetarawat6106@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://leetcode.com/u/ShwetaRawat6106/"><img src="https://img.shields.io/badge/LeetCode-ShwetaRawat6106-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<img src="https://komarev.com/ghpvc/?username=Shwetarawat061&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" alt="Profile Views" />
-
-</div>
+<img src="https://komarev.com/ghpvc/?username=Shwetarawat061&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge&base=372" alt="Profile Views" />
+</div>0
 
 ---
 
