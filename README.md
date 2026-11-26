@@ -14,7 +14,7 @@
 <a href="mailto:shwetarawat6106@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-38BDF8?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/Shwetarawat061"><img src="https://img.shields.io/badge/GitHub-Explore%20Code-111827?style=flat-square&logo=github" alt="GitHub"/></a>
 <a href="https://leetcode.com/u/ShwetaRawat6106/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-
+<a href="https://shwetarawat061.github.io/Profile/"><img src="https://img.shields.io/badge/Portfolio-Website-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio"/></a>
 <img src="https://komarev.com/ghpvc/?username=Shwetarawat061&label=PROFILE+VIEWS&color=2563eb&style=flat-square&base=434" alt="Profile views"/>
 
 </div>
